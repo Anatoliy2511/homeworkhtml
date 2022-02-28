@@ -1,0 +1,29 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Tahoma, serif;
+}
+	div{
+		width: 1800px;
+		margin: 0 auto;
+}
+
+div img {
+	width: 40%;
+		margin: 0 auto;
+		display: block;
+
+}
+
+
+aside, main {
+		width: 70%;
+		margin: auto;
+	text-align: center;
+		color: white;
+		font-size: 40px;
+	}
+
+	footer p {
+		text-align: center;
+	}
